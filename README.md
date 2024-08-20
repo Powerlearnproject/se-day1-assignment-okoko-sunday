@@ -149,7 +149,10 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Answer:
-Prompt engineering is the practice of designing and refining prompts—questions or instructions—to elicit specific responses from AI models. Think of it as the interface between human intent and machine output.
+Prompt engineering is the practice of designing and refining prompts questions or instructions to elicit specific responses from AI models. Think of it as the interface between human intent and machine output.
+Prompt engineering makes it easy for users to obtain relevant results in the first prompt. 
+It helps mitigate bias that may be present from existing human bias in the large language models' training data. 
+It enhances the user AI interaction so the AI understands the user's intention even with minimal input.
 
 
 
