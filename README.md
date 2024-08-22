@@ -9,7 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Answer:
 Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications.
-In general, software helps eliminate human errors, bringing efficiency and consistency to processes so that the company remains healthy
+In general, software helps eliminate human errors, bringing efficiency and consistency to processes so that the company remains healthy.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
